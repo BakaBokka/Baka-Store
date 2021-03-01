@@ -10,7 +10,7 @@ const App = () => {
     <main className="container">
       <Header numItems={5} total={210}/>
     <Switch>
-      <Route path="/" component={HomePage} exact />
+      <Route path="/Baka-Store" component={HomePage} exact />
       <Route path="/cart" component={CartPage} />
     </Switch>
     </main>
