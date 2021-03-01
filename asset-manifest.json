@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Baka-Store/static/css/main.92e7f502.chunk.css",
+    "main.js": "/Baka-Store/static/js/main.a23e3eb8.chunk.js",
+    "main.js.map": "/Baka-Store/static/js/main.a23e3eb8.chunk.js.map",
+    "runtime-main.js": "/Baka-Store/static/js/runtime-main.c03eaa02.js",
+    "runtime-main.js.map": "/Baka-Store/static/js/runtime-main.c03eaa02.js.map",
+    "static/js/2.66c4b5f1.chunk.js": "/Baka-Store/static/js/2.66c4b5f1.chunk.js",
+    "static/js/2.66c4b5f1.chunk.js.map": "/Baka-Store/static/js/2.66c4b5f1.chunk.js.map",
+    "index.html": "/Baka-Store/index.html",
+    "static/css/main.92e7f502.chunk.css.map": "/Baka-Store/static/css/main.92e7f502.chunk.css.map",
+    "static/js/2.66c4b5f1.chunk.js.LICENSE.txt": "/Baka-Store/static/js/2.66c4b5f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c03eaa02.js",
+    "static/js/2.66c4b5f1.chunk.js",
+    "static/css/main.92e7f502.chunk.css",
+    "static/js/main.a23e3eb8.chunk.js"
+  ]
+}
